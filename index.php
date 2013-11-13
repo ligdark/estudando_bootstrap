@@ -6,21 +6,19 @@
         <link href="plugins/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
         <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
         <script src="plugins/bootstrap/js/bootstrap.min.js" > </script>
+    	
+        <script>
+			$(document).ready(function(){
+				$('#teste').popover();
+			});
+		</script>
+    
     </head>
     <body>
-    	<div class="dropdown">
-  		<a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
-  	wwwww
-  <!-- Link or button to toggle dropdown -->
-  <ul class="dropdown-menu">
-    <li><a tabindex="-1" href="#">Ação</a></li>
-    <li><a tabindex="-1" href="#">Outra ação</a></li>
-    <li><a tabindex="-1" href="#">Algo a mais aqui</a></li>
-    <li class="divider"></li>
-    <li><a tabindex="-1" href="#">Link separador</a></li>
-  </ul>
-</div>
-</body>
+    	<div class="well span6">
+        	<a href="#" class="btn btn-primary" id="teste" rel="popover" data-content="haha" data-original-title="mmm">dddd</a>
+        </div>	
+	</body>
 </html> 
 
 
