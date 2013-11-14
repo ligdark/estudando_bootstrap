@@ -1,0 +1,10 @@
+.largeIcon{
+	font-size: 50px;
+	color: red;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+a:hover{
+	text-decoration: none;
+}

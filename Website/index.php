@@ -2,10 +2,16 @@
 <head>
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="../plugins/bootstrap/css/bootstrap.css">
+	<!-- <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> -->
+	<link rel="stylesheet" type="text/css" href="../plugins/font-awesome/css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
     <script src="../plugins/bootstrap/js/bootstrap.js" > </script>
 </head>
 <body>
+
+	<!-- Menu -->
+	<!-- ============ -->
 
 	<div class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
@@ -38,6 +44,9 @@
 		</div>
 	</div>
 	
+	<!-- Carousel -->
+	<!-- ============ -->
+
 	<!-- <div class="container span2"> -->
 		<div id="myCarousel" class="carousel slide">
 			<ol class="carousel-indicators">
@@ -107,6 +116,10 @@
 		</div>
 	<!-- </div> -->
 
+	
+	<!-- Grid -->
+	<!-- ============ -->
+	
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
@@ -143,7 +156,21 @@
 				</p>
 			</div>
 		</div>
+	</div>
 
+	<!-- Font Awesome Icons -->
+	<!-- ============ -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="well">
+					<a href="#"><i class="largeIcon fa fa-android"></i></a>
+					<i class="largeIcon fa fa-linkedin"></i>
+					<i class="largeIcon fa fa-twitter"></i>
+				</div>
+			</div>
+		</div>
 	</div>
 </body>
 </html>
