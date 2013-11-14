@@ -44,10 +44,23 @@
 				<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 				<li data-target="#myCarousel" data-slide-to="1"></li>
 				<li data-target="#myCarousel" data-slide-to="2"></li>
+				<li data-target="#myCarousel" data-slide-to="4"></li>
 			</ol>
 
 			<div class="carousel-inner">
 				<div class="item active">
+					<img src="../imgs/1.png">
+
+					<div class="container">
+						<div class="carousel-caption">
+							<h1>My Heading Text</h1>
+							<p>This tag will contain the text whitch we want to appear on our slide</p>
+							<p><a href="#" class="btn btn-large btn-primary">Sign Up</a></p>
+						</div>
+					</div>
+				</div>
+
+				<div class="item container">
 					<img src="../imgs/2.png">
 
 					<div class="container">
@@ -73,18 +86,6 @@
 
 				<div class="item">
 					<img src="../imgs/4.png">
-
-					<div class="container">
-						<div class="carousel-caption">
-							<h1>My Heading Text</h1>
-							<p>This tag will contain the text whitch we want to appear on our slide</p>
-							<p><a href="#" class="btn btn-large btn-primary">Sign Up</a></p>
-						</div>
-					</div>
-				</div>
-
-				<div class="item">
-					<img src="../imgs/5.png">
 
 					<div class="container">
 						<div class="carousel-caption">
