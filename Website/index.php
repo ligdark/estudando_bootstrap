@@ -106,5 +106,44 @@
 			</a>
 		</div>
 	<!-- </div> -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<h2>First Heading</h2>
+				<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here </p>
+			</div>
+
+			<div class="col-md-4">
+				<h2>First Heading</h2>
+				<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here </p>
+			</div>
+
+			<div class="col-md-4">
+				<h2>First Heading</h2>
+				<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here </p>
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col-md-6">
+				<h1>First Heading</h1>
+				<p>
+					Some text will go here Some text will go hereSome text will go hereSome text will go hereSome text will go here
+					Some text will go hereSome text will go hereSome text will go hereSome text will go hereSome text will go here
+				</p>
+			</div>
+
+			<div class="col-md-6">
+				<h1>First Heading</h1>
+				<p>
+					Some text will go here Some text will go hereSome text will go hereSome text will go hereSome text will go here
+					Some text will go hereSome text will go hereSome text will go hereSome text will go hereSome text will go here
+				</p>
+			</div>
+		</div>
+
+	</div>
 </body>
 </html>
