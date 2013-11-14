@@ -14,12 +14,12 @@
             	<div class="span6 well">
                 	<div id="myCarousel" class="carousel">
                     	<div class="carousel-inner">
-                        	<div class="item active"><img src="imgs/1 (1).jpg"></div>
-                            <div class="item"><img src="imgs/1 (2).jpg"></div>
-                            <div class="item"><img src="imgs/1 (3).jpg"></div>
-                            <div class="item"><img src="imgs/1 (4).jpg"></div>
-                            <div class="item"><img src="imgs/1 (5).jpg"></div>
-                            <div class="item"><img src="imgs/1 (6).jpg"></div>
+                        	<div class="item active"><img src="../imgs/1 (1).jpg"></div>
+                            <div class="item"><img src="../imgs/1 (2).jpg"></div>
+                            <div class="item"><img src="../imgs/1 (3).jpg"></div>
+                            <div class="item"><img src="../imgs/1 (4).jpg"></div>
+                            <div class="item"><img src="../imgs/1 (5).jpg"></div>
+                            <div class="item"><img src="../imgs/1 (6).jpg"></div>
                         </div>
                         <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
                         <a class="carousel-control right" href="#myCarousel" data-slide="prev">&rsaquo;</a> 
