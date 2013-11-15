@@ -27,8 +27,9 @@
 
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li><a href="#">Home</a></li>
-					<li><a href="#">About</a></li>
+					<li><a href="home.php">Home</a></li>
+					<li><a href="about.php">About</a></li>
+					<li><a href="feature.php">Features</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tutorials <b class="caret"></b></a>
 					
@@ -38,7 +39,7 @@
 							<li><a href="#">Java Tutorials</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="../paginas/contact.php">Contact</a></li>
 				</ul>
 			</div>
 		</div>
