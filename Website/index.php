@@ -172,5 +172,40 @@
 			</div>
 		</div>
 	</div>
+
+	<!-- Modal -->
+	<!-- ============ -->
+
+	<div class="container">
+		<div class="row">
+			<div class="col=md-12">
+
+				<hr>
+				<p>
+					Copyright &copy; LigDark.
+					<a data-toggle="modal" href="#myModal">Termos e Condições</a>
+				</p>
+
+				<!-- Modal -->
+				<div class="modal fade" id="myModal" tobinex="-1" role="dialog" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h1>Termos e Condições</h1>
+							</div>
+							
+							<div class="modal-body">
+								<p>The text will go here...</p>
+							</div>
+							
+							<div class="modal-footer">
+								<button type="button" class="btn btn-primary" data-dismiss="modal">Fechar</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
