@@ -46,37 +46,37 @@
 	</div><br /><br /><br />
 
 	<div class="container">
-		<div class="jumbotron">
-			<h1>Hello World</h1>
-			<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here</p>
-		</div>
-	</div>
-
-	<!-- Grid -->
-	<!-- ============ -->
-	
-	<div class="container">
 		<div class="row">
-			<div class="col-md-3">
-				<h2>First Heading</h2>
-				<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here </p>
+			<div class="col-md-9">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<div class="page-header">
+							<h3>Whatever you want <small>Posted on July 26th</small></h3> 
+							<img class="featuredImg" src="../imgs/1.png" width="100%">
+
+							<p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+
+							<h1>Lorem Ipsum é simplesmente</h1>
+
+							<p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+						</div>
+					</div>
+				</div>
 			</div>
 
 			<div class="col-md-3">
-				<h2>First Heading</h2>
-				<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here </p>
-			</div>
+				<div class="list-group">
+					<a href="#" class="list-group-item">
+						<h3 class="list-group-item-heading">Lorem ipsum</h3>
+						<p class="list-group-item-text">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. </p>
+					</a>
 
-			<div class="col-md-3">
-				<h2>First Heading</h2>
-				<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here </p>
+					<a href="#" class="list-group-item">
+						<h3 class="list-group-item-heading">Lorem ipsum</h3>
+						<p class="list-group-item-text">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. </p>
+					</a>
+				</div>
 			</div>
-
-			<div class="col-md-3">
-				<h2>First Heading</h2>
-				<p>Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here Some text will go here </p>
-			</div>
-
 		</div>
 	</div>
 

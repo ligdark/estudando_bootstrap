@@ -59,7 +59,7 @@
 
 			<div class="carousel-inner">
 				<div class="item active">
-					<img src="../imgs/1.png">
+					<img src="../imgs/1.png" width="100%" height="100%">
 
 					<div class="container">
 						<div class="carousel-caption">
@@ -71,7 +71,7 @@
 				</div>
 
 				<div class="item container">
-					<img src="../imgs/2.png">
+					<img src="../imgs/2.png" width="100%" height="100%">
 
 					<div class="container">
 						<div class="carousel-caption">
@@ -83,7 +83,7 @@
 				</div>
 
 				<div class="item">
-					<img src="../imgs/3.png">
+					<img src="../imgs/3.png" width="100%" height="100%">
 
 					<div class="container">
 						<div class="carousel-caption">
@@ -95,7 +95,7 @@
 				</div>
 
 				<div class="item">
-					<img src="../imgs/4.png">
+					<img src="../imgs/4.png" width="100%" height="100%">
 
 					<div class="container">
 						<div class="carousel-caption">
